@@ -1,1 +1,12 @@
 welcome to git
+
+<html>
+<head></head>
+
+<body>
+<h1> Heading </h1>
+
+<p>The intro to para </p>
+</body>    
+
+</html>
